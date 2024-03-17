@@ -1,0 +1,14 @@
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\bin\Debug\net8.0\PracticeProject.exe
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\bin\Debug\net8.0\PracticeProject.deps.json
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\bin\Debug\net8.0\PracticeProject.runtimeconfig.json
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\bin\Debug\net8.0\PracticeProject.dll
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\bin\Debug\net8.0\PracticeProject.pdb
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.AssemblyInfoInputs.cache
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.AssemblyInfo.cs
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.dll
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\refint\PracticeProject.dll
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.pdb
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\PracticeProject.genruntimeconfig.cache
+C:\Users\Enas\OneDrive - King Abdullaziz University\Documents\Desktop\Integrify\Weeks\Week6\PracticeProject\obj\Debug\net8.0\ref\PracticeProject.dll
